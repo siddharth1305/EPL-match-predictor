@@ -1,0 +1,41 @@
+Bournemouth;Aston Villa;0;1;80;38;True
+Bournemouth;Liverpool;0;1;80;62;False
+Bournemouth;West Ham;4;3;80;47;False
+Bournemouth;Leicester;1;1;80;41;True
+Bournemouth;Norwich;1;3;80;86;False
+Bournemouth;Sunderland;2;0;80;38;True
+Bournemouth;Stoke;1;2;80;54;False
+Bournemouth;Watford;1;1;80;69;True
+Bournemouth;Man City;1;5;80;79;False
+Bournemouth;Tottenham;1;5;80;64;True
+Bournemouth;Southampton;0;2;80;60;False
+Bournemouth;Newcastle;0;1;80;39;True
+Bournemouth;Swansea;2;2;80;56;False
+Bournemouth;Everton;3;3;80;47;True
+Bournemouth;Chelsea;1;0;80;87;False
+Bournemouth;Man United;2;1;80;70;True
+Bournemouth;West Brom;2;1;80;44;False
+Bournemouth;Crystal Palace;0;0;80;48;True
+Bournemouth;Arsenal;0;2;80;75;False
+Bournemouth;Leicester;0;0;80;41;False
+Bournemouth;West Ham;1;3;80;47;True
+Bournemouth;Norwich;3;0;80;86;True
+Bournemouth;Sunderland;1;1;80;38;False
+Bournemouth;Crystal Palace;2;1;80;48;False
+Bournemouth;Arsenal;0;2;80;75;True
+Bournemouth;Stoke;1;3;80;54;True
+Bournemouth;Watford;0;0;80;69;False
+Bournemouth;Southampton;2;0;80;60;True
+Bournemouth;Newcastle;3;1;80;39;False
+Bournemouth;Swansea;3;2;80;56;True
+Bournemouth;Tottenham;0;3;80;64;False
+Bournemouth;Man City;0;4;80;79;True
+Bournemouth;Aston Villa;2;1;80;38;False
+Bournemouth;Liverpool;1;2;80;62;True
+Bournemouth;Chelsea;1;4;80;87;True
+Bournemouth;Everton;1;2;80;47;False
+Bournemouth;West Brom;1;1;80;44;True
+Bournemouth;Man United;1;3;80;70;False
+Bournemouth;West Brom;0;1;80;44;False
+Bournemouth;Watford;0;2;80;69;True
+Bournemouth;Man City;1;2;80;79;True

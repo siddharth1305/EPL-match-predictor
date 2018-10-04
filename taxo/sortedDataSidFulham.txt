@@ -1,0 +1,41 @@
+Fulham;Hull;1;2;52;35;False
+Fulham;Arsenal;1;0;52;75;True
+Fulham;Bolton;2;1;52;51;True
+Fulham;Blackburn;0;1;52;67;False
+Fulham;West Ham;1;2;52;47;True
+Fulham;West Brom;0;1;52;44;False
+Fulham;Sunderland;0;0;52;38;True
+Fulham;Portsmouth;1;1;52;72;False
+Fulham;Wigan;2;0;52;39;True
+Fulham;Everton;0;1;52;47;False
+Fulham;Newcastle;2;1;52;39;True
+Fulham;Tottenham;2;1;52;64;True
+Fulham;Liverpool;0;0;52;62;False
+Fulham;Aston Villa;0;0;52;38;False
+Fulham;Man City;1;1;52;79;True
+Fulham;Stoke;0;0;52;54;False
+Fulham;Middlesbrough;3;0;52;85;True
+Fulham;Tottenham;0;0;52;64;False
+Fulham;Chelsea;2;2;52;87;True
+Fulham;West Ham;1;3;52;47;False
+Fulham;Sunderland;0;1;52;38;False
+Fulham;Portsmouth;3;1;52;72;True
+Fulham;Wigan;0;0;52;39;False
+Fulham;Man United;0;3;52;70;False
+Fulham;West Brom;2;0;52;44;True
+Fulham;Arsenal;0;0;52;75;False
+Fulham;Hull;0;1;52;35;True
+Fulham;Blackburn;1;2;52;67;True
+Fulham;Bolton;3;1;52;51;False
+Fulham;Man United;2;0;52;70;True
+Fulham;Liverpool;0;1;52;62;True
+Fulham;Man City;3;1;52;79;False
+Fulham;Middlesbrough;0;0;52;85;False
+Fulham;Stoke;1;0;52;54;True
+Fulham;Chelsea;1;3;52;87;False
+Fulham;Aston Villa;3;1;52;38;True
+Fulham;Newcastle;1;0;52;39;False
+Fulham;Everton;0;2;52;47;True
+Fulham;Aston Villa;0;0;52;38;True
+Fulham;Wolves;0;2;52;78;False
+Fulham;Newcastle;1;2;52;39;False

@@ -1,0 +1,41 @@
+Arsenal;West Ham;0;2;75;47;True
+Arsenal;Crystal Palace;2;1;75;48;False
+Arsenal;Liverpool;0;0;75;62;True
+Arsenal;Newcastle;1;0;75;39;False
+Arsenal;Stoke;2;0;75;54;True
+Arsenal;Chelsea;0;2;75;87;False
+Arsenal;Leicester;5;2;75;41;False
+Arsenal;Man United;3;0;75;70;True
+Arsenal;Watford;3;0;75;69;False
+Arsenal;Everton;2;1;75;47;True
+Arsenal;Swansea;3;0;75;56;False
+Arsenal;Tottenham;1;1;75;64;True
+Arsenal;West Brom;1;2;75;44;False
+Arsenal;Norwich;1;1;75;86;False
+Arsenal;Sunderland;3;1;75;38;True
+Arsenal;Aston Villa;2;0;75;38;False
+Arsenal;Man City;2;1;75;79;True
+Arsenal;Southampton;0;4;75;60;False
+Arsenal;Bournemouth;2;0;75;80;True
+Arsenal;Newcastle;1;0;75;39;True
+Arsenal;Liverpool;3;3;75;62;False
+Arsenal;Stoke;0;0;75;54;False
+Arsenal;Chelsea;0;1;75;87;True
+Arsenal;Southampton;0;0;75;60;True
+Arsenal;Bournemouth;2;0;75;80;False
+Arsenal;Leicester;2;1;75;41;True
+Arsenal;Man United;2;3;75;70;False
+Arsenal;Swansea;1;2;75;56;True
+Arsenal;Tottenham;2;2;75;64;False
+Arsenal;Everton;2;0;75;47;False
+Arsenal;Watford;4;0;75;69;True
+Arsenal;West Ham;3;3;75;47;False
+Arsenal;Crystal Palace;1;1;75;48;True
+Arsenal;West Brom;2;0;75;44;True
+Arsenal;Sunderland;0;0;75;38;False
+Arsenal;Norwich;1;0;75;86;True
+Arsenal;Man City;2;2;75;79;False
+Arsenal;Aston Villa;4;0;75;38;True
+Arsenal;West Brom;1;0;75;44;True
+Arsenal;Fulham;0;1;75;52;False
+Arsenal;Newcastle;3;0;75;39;True

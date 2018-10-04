@@ -1,0 +1,41 @@
+Birmingham;Portsmouth;1;1;63;72;False
+Birmingham;Chelsea;0;1;63;87;True
+Birmingham;Man City;1;0;63;79;True
+Birmingham;Tottenham;0;1;63;64;False
+Birmingham;Middlesbrough;1;2;63;85;False
+Birmingham;Charlton;1;1;63;60;True
+Birmingham;Bolton;1;1;63;51;False
+Birmingham;Newcastle;2;2;63;39;True
+Birmingham;Man United;0;0;63;70;True
+Birmingham;Southampton;0;0;63;60;False
+Birmingham;Crystal Palace;0;1;63;48;True
+Birmingham;Liverpool;1;0;63;62;False
+Birmingham;Everton;0;1;63;47;True
+Birmingham;Blackburn;3;3;63;67;False
+Birmingham;Norwich;1;1;63;86;True
+Birmingham;Arsenal;0;3;63;75;False
+Birmingham;Aston Villa;2;1;63;38;False
+Birmingham;West Brom;4;0;63;44;True
+Birmingham;Middlesbrough;2;0;63;85;True
+Birmingham;Fulham;3;2;63;52;False
+Birmingham;Newcastle;1;2;63;39;False
+Birmingham;Bolton;1;2;63;51;True
+Birmingham;Charlton;1;3;63;60;False
+Birmingham;Fulham;1;2;63;52;True
+Birmingham;Southampton;2;1;63;60;True
+Birmingham;Man United;0;2;63;70;False
+Birmingham;Liverpool;2;0;63;62;True
+Birmingham;Crystal Palace;0;2;63;48;False
+Birmingham;West Brom;0;2;63;44;False
+Birmingham;Aston Villa;2;0;63;38;True
+Birmingham;Tottenham;1;1;63;64;True
+Birmingham;Chelsea;1;1;63;87;False
+Birmingham;Portsmouth;0;0;63;72;True
+Birmingham;Man City;0;3;63;79;False
+Birmingham;Everton;1;1;63;47;False
+Birmingham;Blackburn;2;1;63;67;True
+Birmingham;Norwich;0;1;63;86;False
+Birmingham;Arsenal;2;1;63;75;True
+Birmingham;Sunderland;2;2;63;38;False
+Birmingham;Blackburn;2;1;63;67;True
+Birmingham;Bolton;2;2;63;51;False

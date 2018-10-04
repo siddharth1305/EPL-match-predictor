@@ -1,0 +1,38 @@
+Newcastle;Southampton;2;2;39;60;True
+Newcastle;Swansea;0;2;39;56;False
+Newcastle;Man United;0;0;39;70;False
+Newcastle;Arsenal;0;1;39;75;True
+Newcastle;West Ham;0;2;39;47;False
+Newcastle;Watford;1;2;39;69;True
+Newcastle;Chelsea;2;2;39;87;True
+Newcastle;Man City;1;6;39;79;False
+Newcastle;Norwich;6;2;39;86;True
+Newcastle;Sunderland;0;3;39;38;False
+Newcastle;Stoke;0;0;39;54;True
+Newcastle;Bournemouth;1;0;39;80;False
+Newcastle;Leicester;0;3;39;41;True
+Newcastle;Crystal Palace;1;5;39;48;False
+Newcastle;Liverpool;2;0;39;62;True
+Newcastle;Tottenham;2;1;39;64;False
+Newcastle;Aston Villa;1;1;39;38;True
+Newcastle;Everton;0;1;39;47;True
+Newcastle;West Brom;0;1;39;44;False
+Newcastle;Arsenal;0;1;39;75;False
+Newcastle;Man United;3;3;39;70;True
+Newcastle;West Ham;2;1;39;47;True
+Newcastle;Watford;1;2;39;69;False
+Newcastle;Everton;0;3;39;47;False
+Newcastle;West Brom;1;0;39;44;True
+Newcastle;Chelsea;1;5;39;87;False
+Newcastle;Stoke;0;1;39;54;False
+Newcastle;Bournemouth;1;3;39;80;True
+Newcastle;Leicester;0;1;39;41;False
+Newcastle;Sunderland;1;1;39;38;True
+Newcastle;Norwich;2;3;39;86;False
+Newcastle;Southampton;1;3;39;60;False
+Newcastle;Swansea;3;0;39;56;True
+Newcastle;Man City;1;1;39;79;True
+Newcastle;Liverpool;2;2;39;62;False
+Newcastle;Crystal Palace;1;0;39;48;True
+Newcastle;Aston Villa;0;0;39;38;False
+Newcastle;Tottenham;5;1;39;64;True

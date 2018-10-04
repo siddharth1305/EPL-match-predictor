@@ -1,0 +1,41 @@
+Stoke;Liverpool;0;1;54;62;True
+Stoke;Tottenham;2;2;54;64;False
+Stoke;Norwich;1;1;54;86;False
+Stoke;West Brom;0;1;54;44;True
+Stoke;Arsenal;0;2;54;75;False
+Stoke;Leicester;2;2;54;41;True
+Stoke;Bournemouth;2;1;54;80;True
+Stoke;Aston Villa;1;0;54;38;False
+Stoke;Swansea;1;0;54;56;False
+Stoke;Watford;0;2;54;69;True
+Stoke;Newcastle;0;0;54;39;False
+Stoke;Chelsea;1;0;54;87;True
+Stoke;Southampton;1;0;54;60;False
+Stoke;Sunderland;0;2;54;38;False
+Stoke;Man City;2;0;54;79;True
+Stoke;West Ham;0;0;54;47;False
+Stoke;Crystal Palace;1;2;54;48;True
+Stoke;Man United;2;0;54;70;True
+Stoke;Everton;4;3;54;47;False
+Stoke;West Brom;1;2;54;44;False
+Stoke;Norwich;3;1;54;86;True
+Stoke;Arsenal;0;0;54;75;True
+Stoke;Leicester;0;3;54;41;False
+Stoke;Man United;0;3;54;70;False
+Stoke;Everton;0;3;54;47;True
+Stoke;Bournemouth;3;1;54;80;False
+Stoke;Aston Villa;2;1;54;38;True
+Stoke;Newcastle;1;0;54;39;True
+Stoke;Chelsea;1;1;54;87;False
+Stoke;Southampton;1;2;54;60;True
+Stoke;Watford;2;1;54;69;False
+Stoke;Swansea;2;2;54;56;True
+Stoke;Liverpool;1;4;54;62;False
+Stoke;Tottenham;0;4;54;64;True
+Stoke;Man City;0;4;54;79;False
+Stoke;Sunderland;1;1;54;38;True
+Stoke;Crystal Palace;1;2;54;48;False
+Stoke;West Ham;2;1;54;47;True
+Stoke;Bolton;1;3;54;51;False
+Stoke;Aston Villa;3;2;54;38;True
+Stoke;Middlesbrough;1;2;54;85;False

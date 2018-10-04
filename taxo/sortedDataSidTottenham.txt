@@ -1,0 +1,41 @@
+Tottenham;Man United;0;1;64;70;False
+Tottenham;Stoke;2;2;64;54;True
+Tottenham;Leicester;1;1;64;41;False
+Tottenham;Everton;0;0;64;47;True
+Tottenham;Sunderland;1;0;64;38;False
+Tottenham;Crystal Palace;1;0;64;48;True
+Tottenham;Man City;4;1;64;79;True
+Tottenham;Swansea;2;2;64;56;False
+Tottenham;Liverpool;0;0;64;62;True
+Tottenham;Bournemouth;5;1;64;80;False
+Tottenham;Aston Villa;3;1;64;38;True
+Tottenham;Arsenal;1;1;64;75;False
+Tottenham;West Ham;4;1;64;47;True
+Tottenham;Chelsea;0;0;64;87;True
+Tottenham;West Brom;1;1;64;44;False
+Tottenham;Newcastle;1;2;64;39;True
+Tottenham;Southampton;2;0;64;60;False
+Tottenham;Norwich;3;0;64;86;True
+Tottenham;Watford;2;1;64;69;False
+Tottenham;Everton;1;1;64;47;False
+Tottenham;Leicester;0;1;64;41;True
+Tottenham;Sunderland;4;1;64;38;True
+Tottenham;Crystal Palace;3;1;64;48;False
+Tottenham;Norwich;3;0;64;86;False
+Tottenham;Watford;1;0;64;69;True
+Tottenham;Man City;2;1;64;79;False
+Tottenham;Swansea;2;1;64;56;True
+Tottenham;West Ham;0;1;64;47;False
+Tottenham;Arsenal;2;2;64;75;True
+Tottenham;Aston Villa;2;0;64;38;False
+Tottenham;Bournemouth;3;0;64;80;True
+Tottenham;Liverpool;1;1;64;62;False
+Tottenham;Man United;3;0;64;70;True
+Tottenham;Stoke;4;0;64;54;False
+Tottenham;West Brom;1;1;64;44;True
+Tottenham;Chelsea;2;2;64;87;False
+Tottenham;Southampton;1;2;64;60;True
+Tottenham;Newcastle;1;5;64;39;False
+Tottenham;Middlesbrough;1;2;64;85;False
+Tottenham;Sunderland;1;2;64;38;True
+Tottenham;Chelsea;1;1;64;87;False

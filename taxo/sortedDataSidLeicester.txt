@@ -1,0 +1,41 @@
+Leicester;Sunderland;4;2;41;38;True
+Leicester;West Ham;2;1;41;47;False
+Leicester;Tottenham;1;1;41;64;True
+Leicester;Bournemouth;1;1;41;80;False
+Leicester;Aston Villa;3;2;41;38;True
+Leicester;Stoke;2;2;41;54;False
+Leicester;Arsenal;2;5;41;75;True
+Leicester;Norwich;2;1;41;86;False
+Leicester;Southampton;2;2;41;60;False
+Leicester;Crystal Palace;1;0;41;48;True
+Leicester;West Brom;3;2;41;44;False
+Leicester;Watford;2;1;41;69;True
+Leicester;Newcastle;3;0;41;39;False
+Leicester;Man United;1;1;41;70;True
+Leicester;Swansea;3;0;41;56;False
+Leicester;Chelsea;2;1;41;87;True
+Leicester;Everton;3;2;41;47;False
+Leicester;Liverpool;0;1;41;62;False
+Leicester;Man City;0;0;41;79;True
+Leicester;Bournemouth;0;0;41;80;True
+Leicester;Tottenham;1;0;41;64;False
+Leicester;Aston Villa;1;1;41;38;False
+Leicester;Stoke;3;0;41;54;True
+Leicester;Liverpool;2;0;41;62;True
+Leicester;Man City;3;1;41;79;False
+Leicester;Arsenal;1;2;41;75;False
+Leicester;Norwich;1;0;41;86;True
+Leicester;West Brom;2;2;41;44;True
+Leicester;Watford;1;0;41;69;False
+Leicester;Newcastle;1;0;41;39;True
+Leicester;Crystal Palace;1;0;41;48;False
+Leicester;Southampton;1;0;41;60;True
+Leicester;Sunderland;2;0;41;38;False
+Leicester;West Ham;2;2;41;47;True
+Leicester;Swansea;4;0;41;56;True
+Leicester;Man United;1;1;41;70;False
+Leicester;Everton;3;1;41;47;True
+Leicester;Chelsea;1;1;41;87;False
+Leicester;Southampton;2;2;41;60;True
+Leicester;Chelsea;1;2;41;87;False
+Leicester;Middlesbrough;0;0;41;85;True

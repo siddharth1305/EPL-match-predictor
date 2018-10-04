@@ -1,0 +1,41 @@
+Norwich;Crystal Palace;1;3;86;48;True
+Norwich;Sunderland;3;1;86;38;False
+Norwich;Stoke;1;1;86;54;True
+Norwich;Southampton;0;3;86;60;False
+Norwich;Bournemouth;3;1;86;80;True
+Norwich;Liverpool;1;1;86;62;False
+Norwich;West Ham;2;2;86;47;False
+Norwich;Leicester;1;2;86;41;True
+Norwich;Newcastle;2;6;86;39;False
+Norwich;West Brom;0;1;86;44;True
+Norwich;Man City;1;2;86;79;False
+Norwich;Swansea;1;0;86;56;True
+Norwich;Chelsea;0;1;86;87;False
+Norwich;Arsenal;1;1;86;75;True
+Norwich;Watford;0;2;86;69;False
+Norwich;Everton;1;1;86;47;True
+Norwich;Man United;2;1;86;70;False
+Norwich;Tottenham;0;3;86;64;False
+Norwich;Aston Villa;2;0;86;38;True
+Norwich;Southampton;1;0;86;60;True
+Norwich;Stoke;1;3;86;54;False
+Norwich;Bournemouth;0;3;86;80;False
+Norwich;Liverpool;4;5;86;62;True
+Norwich;Tottenham;0;3;86;64;True
+Norwich;Aston Villa;0;2;86;38;False
+Norwich;West Ham;2;2;86;47;True
+Norwich;Leicester;0;1;86;41;False
+Norwich;Chelsea;1;2;86;87;True
+Norwich;Swansea;0;1;86;56;False
+Norwich;Man City;0;0;86;79;True
+Norwich;West Brom;1;0;86;44;False
+Norwich;Newcastle;3;2;86;39;True
+Norwich;Crystal Palace;0;1;86;48;False
+Norwich;Sunderland;0;3;86;38;True
+Norwich;Arsenal;0;1;86;75;False
+Norwich;Man United;0;1;86;70;True
+Norwich;Watford;4;2;86;69;True
+Norwich;Everton;0;3;86;47;False
+Norwich;Wigan;1;1;86;39;False
+Norwich;Stoke;1;1;86;54;True
+Norwich;Chelsea;1;3;86;87;False

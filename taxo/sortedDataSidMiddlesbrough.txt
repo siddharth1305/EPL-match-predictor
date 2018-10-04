@@ -1,0 +1,41 @@
+Middlesbrough;Tottenham;2;1;85;64;True
+Middlesbrough;Liverpool;1;2;85;62;False
+Middlesbrough;Stoke;2;1;85;54;True
+Middlesbrough;Portsmouth;1;2;85;72;False
+Middlesbrough;Sunderland;0;2;85;38;False
+Middlesbrough;West Brom;0;1;85;44;True
+Middlesbrough;Wigan;1;0;85;39;False
+Middlesbrough;Chelsea;0;5;85;87;True
+Middlesbrough;Blackburn;1;1;85;67;False
+Middlesbrough;Man City;2;0;85;79;True
+Middlesbrough;West Ham;1;1;85;47;True
+Middlesbrough;Aston Villa;2;1;85;38;False
+Middlesbrough;Everton;1;1;85;47;False
+Middlesbrough;Bolton;1;3;85;51;True
+Middlesbrough;Newcastle;0;0;85;39;True
+Middlesbrough;Hull;1;2;85;35;False
+Middlesbrough;Arsenal;1;1;85;75;True
+Middlesbrough;Fulham;0;3;85;52;False
+Middlesbrough;Everton;0;1;85;47;True
+Middlesbrough;Man United;0;1;85;70;False
+Middlesbrough;Sunderland;1;1;85;38;True
+Middlesbrough;West Brom;0;3;85;44;False
+Middlesbrough;Chelsea;0;2;85;87;False
+Middlesbrough;Blackburn;0;0;85;67;True
+Middlesbrough;Man City;0;1;85;79;False
+Middlesbrough;Wigan;0;0;85;39;True
+Middlesbrough;Liverpool;2;0;85;62;True
+Middlesbrough;Tottenham;0;4;85;64;False
+Middlesbrough;Portsmouth;1;1;85;72;True
+Middlesbrough;Stoke;0;1;85;54;False
+Middlesbrough;Bolton;1;4;85;51;False
+Middlesbrough;Hull;3;1;85;35;True
+Middlesbrough;Fulham;0;0;85;52;True
+Middlesbrough;Arsenal;0;2;85;75;False
+Middlesbrough;Man United;0;2;85;70;True
+Middlesbrough;Newcastle;1;3;85;39;False
+Middlesbrough;Aston Villa;1;1;85;38;True
+Middlesbrough;West Ham;1;2;85;47;False
+Middlesbrough;Newcastle;2;2;85;39;True
+Middlesbrough;Arsenal;3;5;85;75;False
+Middlesbrough;Fulham;2;0;85;52;False

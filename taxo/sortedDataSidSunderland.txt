@@ -1,0 +1,41 @@
+Sunderland;Leicester;2;4;38;41;False
+Sunderland;Norwich;1;3;38;86;True
+Sunderland;Swansea;1;1;38;56;True
+Sunderland;Aston Villa;2;2;38;38;False
+Sunderland;Tottenham;0;1;38;64;True
+Sunderland;Bournemouth;0;2;38;80;False
+Sunderland;Man United;0;3;38;70;False
+Sunderland;West Ham;2;2;38;47;True
+Sunderland;West Brom;0;1;38;44;False
+Sunderland;Newcastle;3;0;38;39;True
+Sunderland;Everton;2;6;38;47;False
+Sunderland;Southampton;0;1;38;60;True
+Sunderland;Crystal Palace;1;0;38;48;False
+Sunderland;Stoke;2;0;38;54;True
+Sunderland;Arsenal;1;3;38;75;False
+Sunderland;Watford;0;1;38;69;True
+Sunderland;Chelsea;1;3;38;87;False
+Sunderland;Man City;1;4;38;79;False
+Sunderland;Liverpool;0;1;38;62;True
+Sunderland;Aston Villa;3;1;38;38;True
+Sunderland;Swansea;4;2;38;56;False
+Sunderland;Tottenham;1;4;38;64;False
+Sunderland;Bournemouth;1;1;38;80;True
+Sunderland;Man City;0;1;38;79;True
+Sunderland;Liverpool;2;2;38;62;False
+Sunderland;Man United;2;1;38;70;True
+Sunderland;West Ham;0;1;38;47;False
+Sunderland;Crystal Palace;2;2;38;48;True
+Sunderland;Southampton;1;1;38;60;False
+Sunderland;Newcastle;1;1;38;39;False
+Sunderland;West Brom;0;0;38;44;True
+Sunderland;Leicester;0;2;38;41;True
+Sunderland;Norwich;3;0;38;86;False
+Sunderland;Arsenal;0;0;38;75;True
+Sunderland;Stoke;1;1;38;54;False
+Sunderland;Chelsea;3;2;38;87;True
+Sunderland;Everton;3;0;38;47;True
+Sunderland;Watford;2;2;38;69;False
+Sunderland;Liverpool;0;1;38;62;True
+Sunderland;Tottenham;2;1;38;64;False
+Sunderland;Man City;0;3;38;79;True

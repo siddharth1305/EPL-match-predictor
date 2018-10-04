@@ -1,0 +1,38 @@
+West Ham;Arsenal;2;0;47;75;False
+West Ham;Leicester;1;2;47;41;True
+West Ham;Bournemouth;3;4;47;80;True
+West Ham;Liverpool;3;0;47;62;False
+West Ham;Newcastle;2;0;47;39;True
+West Ham;Man City;2;1;47;79;False
+West Ham;Norwich;2;2;47;86;True
+West Ham;Sunderland;2;2;47;38;False
+West Ham;Crystal Palace;3;1;47;48;False
+West Ham;Chelsea;2;1;47;87;True
+West Ham;Watford;0;2;47;69;False
+West Ham;Everton;1;1;47;47;True
+West Ham;Tottenham;1;4;47;64;False
+West Ham;West Brom;1;1;47;44;True
+West Ham;Man United;0;0;47;70;False
+West Ham;Stoke;0;0;47;54;True
+West Ham;Swansea;0;0;47;56;False
+West Ham;Aston Villa;1;1;47;38;False
+West Ham;Southampton;2;1;47;60;True
+West Ham;Liverpool;2;0;47;62;True
+West Ham;Bournemouth;3;1;47;80;False
+West Ham;Newcastle;1;2;47;39;False
+West Ham;Man City;2;2;47;79;True
+West Ham;Aston Villa;2;0;47;38;True
+West Ham;Southampton;0;1;47;60;False
+West Ham;Norwich;2;2;47;86;False
+West Ham;Sunderland;1;0;47;38;True
+West Ham;Tottenham;1;0;47;64;True
+West Ham;Everton;3;2;47;47;False
+West Ham;Chelsea;2;2;47;87;False
+West Ham;Crystal Palace;2;2;47;48;True
+West Ham;Arsenal;3;3;47;75;True
+West Ham;Leicester;2;2;47;41;False
+West Ham;Watford;3;1;47;69;True
+West Ham;West Brom;3;0;47;44;False
+West Ham;Swansea;1;4;47;56;True
+West Ham;Man United;3;2;47;70;True
+West Ham;Stoke;1;2;47;54;False

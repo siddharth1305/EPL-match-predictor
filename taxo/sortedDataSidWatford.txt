@@ -1,0 +1,41 @@
+Watford;Everton;2;2;69;47;False
+Watford;West Brom;0;0;69;44;True
+Watford;Southampton;0;0;69;60;True
+Watford;Man City;0;2;69;79;False
+Watford;Swansea;1;0;69;56;True
+Watford;Newcastle;2;1;69;39;False
+Watford;Crystal Palace;0;1;69;48;True
+Watford;Bournemouth;1;1;69;80;False
+Watford;Arsenal;0;3;69;75;True
+Watford;Stoke;2;0;69;54;False
+Watford;West Ham;2;0;69;47;True
+Watford;Leicester;1;2;69;41;False
+Watford;Man United;1;2;69;70;True
+Watford;Aston Villa;3;2;69;38;False
+Watford;Norwich;2;0;69;86;True
+Watford;Sunderland;1;0;69;38;False
+Watford;Liverpool;3;0;69;62;True
+Watford;Chelsea;2;2;69;87;False
+Watford;Tottenham;1;2;69;64;True
+Watford;Man City;1;2;69;79;True
+Watford;Southampton;0;2;69;60;False
+Watford;Swansea;0;1;69;56;False
+Watford;Newcastle;2;1;69;39;True
+Watford;Chelsea;0;0;69;87;True
+Watford;Tottenham;0;1;69;64;False
+Watford;Crystal Palace;2;1;69;48;False
+Watford;Bournemouth;0;0;69;80;True
+Watford;Man United;0;1;69;70;False
+Watford;Leicester;0;1;69;41;True
+Watford;Stoke;1;2;69;54;True
+Watford;Arsenal;0;4;69;75;False
+Watford;Everton;1;1;69;47;True
+Watford;West Brom;1;0;69;44;False
+Watford;West Ham;1;3;69;47;False
+Watford;Aston Villa;3;2;69;38;True
+Watford;Liverpool;0;2;69;62;False
+Watford;Norwich;2;4;69;86;False
+Watford;Sunderland;2;2;69;38;True
+Watford;Everton;1;2;69;47;False
+Watford;West Ham;1;1;69;47;True
+Watford;Man United;1;2;69;70;True

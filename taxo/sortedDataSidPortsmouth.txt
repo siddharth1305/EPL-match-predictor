@@ -1,0 +1,41 @@
+Portsmouth;Chelsea;0;4;72;87;False
+Portsmouth;Man United;0;1;72;70;True
+Portsmouth;Everton;3;0;72;47;False
+Portsmouth;Middlesbrough;2;1;72;85;True
+Portsmouth;Man City;0;6;72;79;False
+Portsmouth;Tottenham;2;0;72;64;True
+Portsmouth;Stoke;2;1;72;54;True
+Portsmouth;Aston Villa;0;0;72;38;False
+Portsmouth;Fulham;1;1;72;52;True
+Portsmouth;Liverpool;0;1;72;62;False
+Portsmouth;Wigan;1;2;72;39;True
+Portsmouth;Sunderland;2;1;72;38;False
+Portsmouth;West Ham;0;0;72;47;False
+Portsmouth;Hull;2;2;72;35;True
+Portsmouth;Blackburn;3;2;72;67;True
+Portsmouth;West Brom;1;1;72;44;False
+Portsmouth;Newcastle;0;3;72;39;True
+Portsmouth;Bolton;1;2;72;51;False
+Portsmouth;West Ham;1;4;72;47;True
+Portsmouth;Arsenal;0;1;72;75;False
+Portsmouth;Tottenham;1;1;72;64;False
+Portsmouth;Aston Villa;0;1;72;38;True
+Portsmouth;Fulham;1;3;72;52;False
+Portsmouth;Liverpool;2;3;72;62;True
+Portsmouth;Man City;2;0;72;79;True
+Portsmouth;Stoke;2;2;72;54;False
+Portsmouth;Chelsea;0;1;72;87;True
+Portsmouth;Middlesbrough;1;1;72;85;False
+Portsmouth;Everton;2;1;72;47;True
+Portsmouth;Hull;0;0;72;35;False
+Portsmouth;West Brom;2;2;72;44;True
+Portsmouth;Bolton;1;0;72;51;True
+Portsmouth;Man United;0;2;72;70;False
+Portsmouth;Newcastle;0;0;72;39;False
+Portsmouth;Arsenal;0;3;72;75;True
+Portsmouth;Blackburn;0;2;72;67;False
+Portsmouth;Sunderland;3;1;72;38;True
+Portsmouth;Wigan;0;1;72;39;False
+Portsmouth;Birmingham;1;1;72;63;True
+Portsmouth;Charlton;1;2;72;60;False
+Portsmouth;Fulham;4;3;72;52;True

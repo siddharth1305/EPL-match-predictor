@@ -1,0 +1,38 @@
+West Brom;Man City;0;3;44;79;True
+West Brom;Watford;0;0;44;69;False
+West Brom;Chelsea;2;3;44;87;True
+West Brom;Stoke;1;0;44;54;False
+West Brom;Southampton;0;0;44;60;True
+West Brom;Aston Villa;1;0;44;38;False
+West Brom;Everton;2;3;44;47;True
+West Brom;Crystal Palace;0;2;44;48;False
+West Brom;Sunderland;1;0;44;38;True
+West Brom;Norwich;1;0;44;86;False
+West Brom;Leicester;2;3;44;41;True
+West Brom;Man United;0;2;44;70;False
+West Brom;Arsenal;2;1;44;75;True
+West Brom;West Ham;1;1;44;47;False
+West Brom;Tottenham;1;1;44;64;True
+West Brom;Liverpool;2;2;44;62;False
+West Brom;Bournemouth;1;2;44;80;True
+West Brom;Swansea;0;1;44;56;False
+West Brom;Newcastle;1;0;44;39;True
+West Brom;Stoke;2;1;44;54;True
+West Brom;Chelsea;2;2;44;87;False
+West Brom;Southampton;0;3;44;60;False
+West Brom;Aston Villa;0;0;44;38;True
+West Brom;Swansea;1;1;44;56;True
+West Brom;Newcastle;0;1;44;39;False
+West Brom;Everton;1;0;44;47;False
+West Brom;Crystal Palace;3;2;44;48;True
+West Brom;Leicester;2;2;44;41;False
+West Brom;Man United;1;0;44;70;True
+West Brom;Norwich;0;1;44;86;True
+West Brom;Sunderland;0;0;44;38;False
+West Brom;Man City;1;2;44;79;False
+West Brom;Watford;0;1;44;69;True
+West Brom;Arsenal;0;2;44;75;False
+West Brom;Tottenham;1;1;44;64;False
+West Brom;West Ham;0;3;44;47;True
+West Brom;Bournemouth;1;1;44;80;False
+West Brom;Liverpool;1;1;44;62;True
